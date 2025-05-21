@@ -14,6 +14,6 @@ The Sidcup Family Golf website was redesigned to enhance user engagement and pro
 ## 🚀 Hosting
 
 This project is hosted using **GitHub Pages**.  
-Visit: [(https://itzwahaj.github.io/Sundown_Studio/)](https://github.com/itzWahaj/Sidcup_Family_Golf.git)
+Visit: (https://itzwahaj.github.io/Sidcup_Family_Golf/)
 
 
