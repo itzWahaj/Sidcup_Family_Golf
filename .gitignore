@@ -1,14 +1,15 @@
-### 🛡️ `.gitignore` (Optional but useful)
-
-```bash
-# Ignore Mac system files
-.DS_Store
-
-# VS Code settings
-.vscode/
-
-# Node (if ever used)
+**.gitignore**
+# Ignore node_modules (if you use any node tooling later)
 node_modules/
 
-# Compressed files
-*.zip
+# Ignore log files
+*.log
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files or caches
+*.cache
+*.tmp
+
